@@ -1,0 +1,78 @@
+C:\Users\User\Desktop\Projects\Juego RPG\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.exe
+C:\Users\User\Desktop\Projects\Juego RPG\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.deps.json
+C:\Users\User\Desktop\Projects\Juego RPG\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.runtimeconfig.json
+C:\Users\User\Desktop\Projects\Juego RPG\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.dll
+C:\Users\User\Desktop\Projects\Juego RPG\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.pdb
+C:\Users\User\Desktop\Projects\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projects\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.dll
+C:\Users\User\Desktop\Projects\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\refint\Juego RPG.dll
+C:\Users\User\Desktop\Projects\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.pdb
+C:\Users\User\Desktop\Projects\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.genruntimeconfig.cache
+C:\Users\User\Desktop\Projects\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\ref\Juego RPG.dll
+C:\Users\brein\OneDrive\Escritorio\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.exe
+C:\Users\brein\OneDrive\Escritorio\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.deps.json
+C:\Users\brein\OneDrive\Escritorio\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.runtimeconfig.json
+C:\Users\brein\OneDrive\Escritorio\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.dll
+C:\Users\brein\OneDrive\Escritorio\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.pdb
+C:\Users\brein\OneDrive\Escritorio\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.csproj.AssemblyReference.cache
+C:\Users\brein\OneDrive\Escritorio\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brein\OneDrive\Escritorio\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.AssemblyInfoInputs.cache
+C:\Users\brein\OneDrive\Escritorio\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.AssemblyInfo.cs
+C:\Users\brein\OneDrive\Escritorio\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.csproj.CoreCompileInputs.cache
+C:\Users\brein\OneDrive\Escritorio\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.dll
+C:\Users\brein\OneDrive\Escritorio\Juego RPG\Juego RPG\obj\Debug\net6.0\refint\Juego RPG.dll
+C:\Users\brein\OneDrive\Escritorio\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.pdb
+C:\Users\brein\OneDrive\Escritorio\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.genruntimeconfig.cache
+C:\Users\brein\OneDrive\Escritorio\Juego RPG\Juego RPG\obj\Debug\net6.0\ref\Juego RPG.dll
+E:\3T\Programación\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.dll
+E:\3T\Programación\Juego RPG\Juego RPG\obj\Debug\net6.0\refint\Juego RPG.dll
+E:\3T\Programación\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.pdb
+D:\3T\Programación\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.exe
+D:\3T\Programación\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.deps.json
+D:\3T\Programación\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.runtimeconfig.json
+D:\3T\Programación\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.dll
+D:\3T\Programación\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.pdb
+D:\3T\Programación\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.csproj.AssemblyReference.cache
+D:\3T\Programación\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\3T\Programación\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.AssemblyInfoInputs.cache
+D:\3T\Programación\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.AssemblyInfo.cs
+D:\3T\Programación\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.csproj.CoreCompileInputs.cache
+D:\3T\Programación\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.dll
+D:\3T\Programación\Juego RPG\Juego RPG\obj\Debug\net6.0\refint\Juego RPG.dll
+D:\3T\Programación\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.pdb
+D:\3T\Programación\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.genruntimeconfig.cache
+D:\3T\Programación\Juego RPG\Juego RPG\obj\Debug\net6.0\ref\Juego RPG.dll
+C:\Users\User\Downloads\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.AssemblyInfo.cs
+C:\Users\User\Downloads\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.dll
+C:\Users\User\Downloads\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\refint\Juego RPG.dll
+C:\Users\User\Downloads\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.pdb
+C:\Users\User\Downloads\Juego RPG\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.exe
+C:\Users\User\Downloads\Juego RPG\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.deps.json
+C:\Users\User\Downloads\Juego RPG\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.runtimeconfig.json
+C:\Users\User\Downloads\Juego RPG\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.dll
+C:\Users\User\Downloads\Juego RPG\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.pdb
+C:\Users\User\Downloads\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.genruntimeconfig.cache
+C:\Users\User\Downloads\Juego RPG\Juego RPG\Juego RPG\obj\Debug\net6.0\ref\Juego RPG.dll
+C:\Users\User\Downloads\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.exe
+C:\Users\User\Downloads\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.deps.json
+C:\Users\User\Downloads\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.runtimeconfig.json
+C:\Users\User\Downloads\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.dll
+C:\Users\User\Downloads\Juego RPG\Juego RPG\bin\Debug\net6.0\Juego RPG.pdb
+C:\Users\User\Downloads\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.AssemblyInfo.cs
+C:\Users\User\Downloads\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.dll
+C:\Users\User\Downloads\Juego RPG\Juego RPG\obj\Debug\net6.0\refint\Juego RPG.dll
+C:\Users\User\Downloads\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.pdb
+C:\Users\User\Downloads\Juego RPG\Juego RPG\obj\Debug\net6.0\Juego RPG.genruntimeconfig.cache
+C:\Users\User\Downloads\Juego RPG\Juego RPG\obj\Debug\net6.0\ref\Juego RPG.dll
