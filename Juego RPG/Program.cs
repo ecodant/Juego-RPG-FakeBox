@@ -16,7 +16,7 @@ List<string> dialogos_DonCangrejo = new List<string>()
 List<string> dialogos_Plankton = new List<string>()
         {
             "Don Cangrejo: ¡Ay, Plankton!¡Nunca aprenderás!",
-            "Don Cangrejo: Plankton no tienes que esfoerzate tanto, tu mismo sabe que nunca podras obtener la formula de la Cangreburger",
+            "Don Cangrejo: Plankton no tienes que esforzate tanto, tu mismo sabe que nunca podras obtener la formula de la Cangreburger",
             "Don Cangrejo: Bob Esponja, proteje la receta de la CangreBurguer mientras acabo con este animal.",
             "Don Cangrejo: ¡Bob Esponja! ¡Escondela bien!"
         };
@@ -63,8 +63,6 @@ void inciar_Juego()
     }
 
 
-    //TutoriaL!! EMEPASSS
-
     do
     {
         Random random = new Random();
@@ -76,7 +74,7 @@ void inciar_Juego()
         }
         else
         {
-            Console.WriteLine(dialogos_Plankton[random_indice]);
+            imprimir_Bienvenida(3, dialogos_Plankton[random_indice]);
         }
         Console.ResetColor();
         string resultado_Turno = jugador_Real.Jugar(jugador_Real.seleccion_Jugador(jugador_Real_Ataques), bot.seleccion_Bot(bot_Ataques), jugador_Real_Ataques, bot_Ataques);
@@ -92,7 +90,7 @@ void inciar_Juego()
 
             case "jugador 2":
                 Console.ResetColor();
-
+                bot.set_Health(bot.get_Health() - 1);
                 Console.Write("Tu salud actual: ");
                 Console.ForegroundColor = ConsoleColor.Green;
                 salud_Bot = bot.remove_Health(salud_Bot);
@@ -104,8 +102,10 @@ void inciar_Juego()
                 {
                     Console.ForegroundColor = ConsoleColor.Yellow;
                     jugador_Real.set_Health(jugador_Real.get_Health() - 1);
+
                     Console.Write("La salud del enemigo: ");
                     salud_Player = jugador_Real.remove_Health(salud_Player);
+
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Has usado la mano negra ya no podrás volver a usarla");
                     jugador_Real.set_Comodin(0);
@@ -127,23 +127,13 @@ void inciar_Juego()
 
     if (jugador_Real.get_Health() != 0)
     {
-        Console.ForegroundColor = ConsoleColor.Yellow;
-        if (jugador_Real.get_Name() == "DonCangrejo")
-        {
-
-            Console.WriteLine("Don Cangrejo: Una vez más has fracasado, Plankton");
-        }
         Console.ForegroundColor = ConsoleColor.DarkRed;
         Console.WriteLine("¡HAS SIDO DERROTADO!");
         Console.ResetColor();
     }
     else
     {
-        Console.ForegroundColor = ConsoleColor.Yellow;
-        if (jugador_Real.get_Name() == "Plankton")
-        {
-            Console.WriteLine("Don Cangrejo: Lo he conseguido, tu avaricia te ha llevado al fracaso");
-        }
+
         Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine("¡HAS VENCIDO!");
         Console.ResetColor();

@@ -98,7 +98,7 @@ namespace Juego_RPG
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
                     if (num > 0 && num <= 4) sentinel = false;
-                    else Console.WriteLine("El número debe se estar entre 1 y 3");
+                    else Console.WriteLine("El número debe se estar entre 1 y 4");
 
                 }
                 else Console.WriteLine("Eso que ingreso no es un número.");
@@ -152,7 +152,7 @@ namespace Juego_RPG
             if (!string.IsNullOrEmpty(vida_actual))
             {
                 vida_actual = vida_actual.Substring(0,vida_actual.Length - 1);
-                Console.WriteLine(vida_actual);
+                Console.Write($"{vida_actual}\n");
             }
             return vida_actual;
         }
